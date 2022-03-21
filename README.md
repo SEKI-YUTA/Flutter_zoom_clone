@@ -1,16 +1,6 @@
-# zoom_clone
+# Zoom Clone
 
-A new Flutter project.
+this repository is my learning log
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+youtube video link
+[link](https://www.youtube.com/watch?v=sMA1dKbv33Y&list=PLI1OyBj5ayMxjs1WFHMqdFmbzT4VKAso-&index=2&t=1534s)
