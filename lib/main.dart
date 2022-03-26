@@ -41,7 +41,7 @@ class MyApp extends StatelessWidget {
             return const HomeScreen();
           }
 
-          return LoginScreen();
+          return const LoginScreen();
         }),
       ),
     );
